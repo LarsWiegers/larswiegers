@@ -7,3 +7,7 @@
 
 ### Laravel translation checker:
 ✅ ![Total Downloads](https://img.shields.io/packagist/dt/larswiegers/laravel-translations-checker.svg?style=flat-square)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=LarsWiegers/laravel-translations-checker,LarsWiegers/laravel-maps&type=Date)](https://star-history.com/#LarsWiegers/laravel-translations-checker&LarsWiegers/laravel-maps&Date)
